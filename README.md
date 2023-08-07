@@ -1,0 +1,2 @@
+# Praxisprojekt_August
+ SternzeichenAPP
